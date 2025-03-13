@@ -1,0 +1,3 @@
+[submodule "examples/gol-demo/javaConway"]
+	path = examples/gol-demo/javaConway
+	url = https://github.com/Gotoline-one/javaConway_.001.git
