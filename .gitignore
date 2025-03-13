@@ -1,0 +1,29 @@
+# Java / Maven / Gradle
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Rust
+target/
+Cargo.lock
+
+# Go
+bin/
+pkg/
+*.exe
+
+# Python (if ever used)
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
