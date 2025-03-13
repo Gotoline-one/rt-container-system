@@ -99,5 +99,5 @@ This system provides a research-ready, lightweight, real-time container-like run
 
 ## License
 
-MIT License. See LICENSE file for details.
+APACHE 2.0 License. See LICENSE file for details.
 
