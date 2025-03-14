@@ -3,13 +3,18 @@
 This topic explores compiling real-time (RT) flags for the Linux kernel on a Raspberry Pi.  
 Combined with kernel development books, this should serve as the foundation for building a real-time OS (RTOS) environment and related projects.
 
+## REFERENCES
+
+1. [Cornell University CS1114 Section 9: The Game of Life
+March 27th, 2013](https://www.cs.cornell.edu/courses/cs1114/2013sp/sections/S09_gameoflife.pdf)
+Reference thread: [Raspberry Pi Forum - Real-Time Kernel](https://forums.raspberrypi.com/viewtopic.php?t=344994)
+
 ---
 
 ## To-Do List
 
 ### 1. RTOS and Kernel
-- [ ] Build an RTOS base on the Raspberry Pi.  
-- [ ] Reference thread: [Raspberry Pi Forum - Real-Time Kernel](https://forums.raspberrypi.com/viewtopic.php?t=344994)
+- [ ] Build an RTOS base on the Raspberry Pi.
 
 ### 2. Real-Time Game of Life (RT-GoL) in C
 - [ ] Develop a network-based **Real-Time Game of Life** in C.  
