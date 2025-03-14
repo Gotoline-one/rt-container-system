@@ -7,7 +7,8 @@ Combined with kernel development books, this should serve as the foundation for 
 
 1. [Cornell University CS1114 Section 9: The Game of Life
 March 27th, 2013](https://www.cs.cornell.edu/courses/cs1114/2013sp/sections/S09_gameoflife.pdf)
-Reference thread: [Raspberry Pi Forum - Real-Time Kernel](https://forums.raspberrypi.com/viewtopic.php?t=344994)
+
+2. Reference thread: [Raspberry Pi Forum - Real-Time Kernel](https://forums.raspberrypi.com/viewtopic.php?t=344994)
 
 ---
 
