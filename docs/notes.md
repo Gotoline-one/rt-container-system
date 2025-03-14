@@ -10,6 +10,10 @@ March 27th, 2013](https://www.cs.cornell.edu/courses/cs1114/2013sp/sections/S09_
 
 2. Reference thread: [Raspberry Pi Forum - Real-Time Kernel](https://forums.raspberrypi.com/viewtopic.php?t=344994)
 
+3. [gameoflife lexicon](https://bitstorm.org/gameoflife/lexicon/)
+
+4. Wiki [Main GoL Wiki](http://www.conwaylife.com/wiki/Main_Page)
+
 ---
 
 ## To-Do List
