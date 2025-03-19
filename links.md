@@ -14,6 +14,9 @@ https://doc.rust-lang.org/rust-by-example/
 echo server in Rust
 https://riptutorial.com/rust/example/4404/a-simple-tcp-client-and-server-application--echo
 
+Code for Bore, a Rust "simple" VPN
+https://github.com/ekzhang/bore
+
 
 Introduction to Rust for C programmers
 
