@@ -8,8 +8,10 @@ https://rust-for-c-programmers.salewskis.de/ch1/1_1_why_rust.html
 good re-rust  post
 https://www.reddit.com/r/rust/s/kOtlzPIVoq
 
-Brown University Rust based Networks course
+Brown University Rust based Networks courses
 https://cs.brown.edu/courses/csci1680/f22/schedule/
+
+https://brown-csci1680.github.io/schedule/
 
 ## TIMING HARDWARE 
 Nanosecond accurate PTP server (grandmaster) and client tutorial for Raspberry Pi
