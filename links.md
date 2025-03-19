@@ -1,6 +1,6 @@
 
 
-##RUST
+## RUST
 
 THE BOOK
 https://doc.rust-lang.org/book/
