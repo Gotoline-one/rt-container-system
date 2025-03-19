@@ -1,6 +1,20 @@
 
 
 ##RUST
+
+THE BOOK
+https://doc.rust-lang.org/book/
+
+Gentle into to Rust 
+https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+
+Rust by example 
+https://doc.rust-lang.org/rust-by-example/
+
+echo server in Rust
+https://riptutorial.com/rust/example/4404/a-simple-tcp-client-and-server-application--echo
+
+
 Introduction to Rust for C programmers
 
 https://rust-for-c-programmers.salewskis.de/ch1/1_1_why_rust.html
