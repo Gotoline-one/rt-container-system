@@ -20,7 +20,7 @@ Links for the project that make sense to include.
   - <https://rust-for-c-programmers.salewskis.de/ch1/1_1_why_rust.html>
 
 - RT-Rust posts (Reddit)
-  - <https://www.reddit.com/r/rust/s/kOtlzPIVoq>
+  - Real-time programming in Rust? <https://www.reddit.com/r/rust/s/kOtlzPIVoq>
 
 - University content:
   - Brown University Rust Networks Courses
