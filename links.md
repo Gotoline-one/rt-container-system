@@ -28,7 +28,7 @@ Links for the project that make sense to include.
 
     - <https://brown-csci1680.github.io/schedule/>
 
-[GoTo-TOP](#links-for-project)
+[Gotoline-TOP](#links-for-project)
 
 ## TIMING HARDWARE
 
@@ -42,4 +42,4 @@ Links for the project that make sense to include.
 
   - <https://www.marktechpost.com/2025/03/15/meet-pc-agent-a-hierarchical-multi-agent-collaboration-framework-for-complex-task-automation-on-pc/>
 
-[GoTo-TOP](#links-for-project)
+[Gotoline-TOP](#links-for-project)
