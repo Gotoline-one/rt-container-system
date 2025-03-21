@@ -21,12 +21,18 @@ Links for the project that make sense to include.
 
 - RT-Rust posts (Reddit)
   - Real-time programming in Rust? <https://www.reddit.com/r/rust/s/kOtlzPIVoq>
+  - Distributed Systems Challenges in Rust <https://www.reddit.com/r/rust/comments/1hwl04r/distributed_systems_challenges_in_rust/>
+    - <https://github.com/sattva9/gossip_glomers>
+    - <https://fly.io/dist-sys/>
+    - <https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB>
+    - <https://github.com/sattva9/map_reduce>
 
 - University content:
   - Brown University Rust Networks Courses
     - <https://cs.brown.edu/courses/csci1680/f22/schedule/>
-
     - <https://brown-csci1680.github.io/schedule/>
+  - MIT
+    - <https://pdos.csail.mit.edu/6.824/>   
 
 [Gotoline-TOP](#links-for-project)
 
