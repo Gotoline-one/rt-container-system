@@ -6,6 +6,13 @@ Links for the project that make sense to include.
 - [Rust Programming language for real-time system programming](#rust)
 - [Raspberry Pi GPS Hardware for real-time system clocks](#timing-hardware)
 
+## Distibuted Systems
+- Academic
+ - DISTRIBUTED-SYSTEMS.NET by Maarten van Steen <https://www.distributed-systems.net/>
+  - [Distributed Systems - design (for 2021).pdf]<https://www.distributed-systems.net/my-data/edu/Distributed%20Systems%20-%20design%20(for%202021).pdf>
+  - Graph Theory and Complex Network <https://www.distributed-systems.net/index.php/books/gtcn/>
+   
+
 ## RUST
 
 - Documentation
